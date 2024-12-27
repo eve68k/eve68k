@@ -3,8 +3,8 @@ Hi there👋
 A strange programmer
 
 ## My private projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=mikan&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=blog&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) \
+[![maimai-club/mikan](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=mikan&show_owner=true)](https://github.com/maimai-club/mikan)
+[![maimai-club/blog](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=blog&show_owner=true)](https://github.com/maimai-club/blog) \
 ...and more!😉
 
 ## Connect with me🌱
