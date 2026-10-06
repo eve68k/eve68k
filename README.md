@@ -3,15 +3,14 @@ Hi there👋
 A strange programmer
 
 ## My private projects
-[![maimai-club/mikan](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=mikan&show_owner=true)](https://github.com/maimai-club/mikan)
-[![maimai-club/blog](https://github-readme-stats.vercel.app/api/pin/?username=maimai-club&repo=blog&show_owner=true)](https://github.com/maimai-club/blog) \
+[![vpc](https://github-readme-stats.vercel.app/api/pin/?username=eve68k&repo=vpc&show_owner=true)](https://github.com/eve68k/vpc) \
 ...and more!😉
 
 ## Connect with me🌱
 - Twitter(X) \
   https://twitter.com/ebi68000
-- Qiita \
-  https://qiita.com/ebi68k
+- しずかなインターネット \
+  https://sizu.me/eve68k
 - Zenn \
   https://zenn.dev/ebi68k
 
@@ -25,4 +24,4 @@ A strange programmer
 </p>
 
 ## Favorites
-VSCode/Proxmox/Kubernetes/Jailbreak/DevOps/Go/React/Vue/TypeScript/IPv6/Home Lab/Cloud Native
+Functional Programming/Onion Architecture/Domain Driven Design
